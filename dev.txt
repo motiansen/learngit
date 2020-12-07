@@ -1,0 +1,14 @@
+create branch dev:
+git checkout -b dev
+git switch -c dev
+git branch dev
+git checkout dev
+git switch dev
+
+restore modified:
+git checkout -- <file>
+git restore <file>
+
+restore stage modified:
+git reset HEAD <file>
+git restore --stage <file>
