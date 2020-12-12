@@ -16,3 +16,4 @@ test2->testMerge->work02
 
 
 test2->new branch->rebase->work01
+test2->new branch->rebase->work02
