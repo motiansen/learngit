@@ -1,0 +1,11 @@
+git checkout -b new branch
+git add . 
+git commit -m "test push new branch with -u parameter"
+
+git commit --amend -a -m "test commit --amend -a && push --force-with-lease"
+
+test1->git fetch origin
+test2->git fetch origin
+
+
+test1->testMerge->work01
