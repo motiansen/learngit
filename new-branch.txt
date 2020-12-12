@@ -10,3 +10,6 @@ test2->git fetch origin
 
 test1->testMerge->work01
 test1->testMerge->work02
+
+test2->testMerge->work01
+
